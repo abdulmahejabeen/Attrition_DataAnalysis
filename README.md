@@ -8,43 +8,36 @@ This project analyzes employee attrition patterns using both data visualization 
 
 #3. Provide Development Opportunities: Focus on enhancing diversity and identifying growth opportunities.
 
- 
 
-DATA INSIGHTS & RECOMMENDATIONS
+# DATA INSIGHTS & RECOMMENDATIONS
 
-Insight #1: Younger professionals demonstrate higher Attrition rates in seeking alternative career opportunities and personal growth.
+## Insight #1: Younger professionals demonstrate higher Attrition rates in seeking alternative career opportunities and personal growth.
 
 Action: Empower younger professionals through mentorship programs, flexible work arrangements, professional development opportunities, recognition initiatives, and effective feedback mechanisms, fostering their career growth, satisfaction, and retention within the organization.
 
- 
 
-Insight #2: Lower incomes correlate with elevated Attrition rates.
+## Insight #2: Lower incomes correlate with elevated Attrition rates.
 
 Action: Conduct a comprehensive compensation analysis to ensure fair pay, enhance benefits packages for lower-income employees, implement career pathing programs, develop engagement initiatives, and offer mentorship and coaching opportunities to support career growth and retention.
 
- 
 
-Insight #3: Lower Job Satisfaction among employees contributes to elevated attrition rates.
+## Insight #3: Lower Job Satisfaction among employees contributes to elevated attrition rates.
 
 Action: Implement measures to address low job satisfaction, including regular surveys, addressing root causes, providing training and development opportunities, improving communication channels, and implementing recognition programs, to mitigate attrition rates associated with dissatisfaction.
 
- 
 
-Insight #4: Single individuals tend to exhibit higher attrition rates due to factors such as lack of dependents, social flexibility, desire for work-life balance, and pursuit of career advancement opportunities.
+## Insight #4: Single individuals tend to exhibit higher attrition rates due to factors such as lack of dependents, social flexibility, desire for work-life balance, and pursuit of career advancement opportunities.
 
 Action: Implement initiatives such as flexible work arrangements, career development programs, recognition and rewards, supportive culture building, and work-life integration strategies to address high attrition rates among single employees.
 
- 
 
-Insight #5: Among the departments, the HR department exhibits notably higher attrition rates.
+## Insight #5: Among the departments, the HR department exhibits notably higher attrition rates.
 
 Action: Mitigate high attrition in departments through workload assessment, career development, employee support, culture enhancement, and leadership training.
 
- 
 
-MODELING
-
-
+# MODELING
+![Screenshot 2025-05-06 at 4 50 28 PM](https://github.com/user-attachments/assets/14e7f956-4966-40bf-930a-d8c6b702b3c2)
 
  
 
