@@ -62,5 +62,6 @@ MODEL 2 - RANDOM FOREST
 ![Screenshot 2025-05-06 at 4 46 13 PM](https://github.com/user-attachments/assets/84b7b729-6763-4839-b421-51d934375f3f)
 
 
-
+# Dashboard
+https://public.tableau.com/app/profile/mahejabeenab/viz/HRAttritionDashboard_17104003518910/AnalyticsDashboard
  
