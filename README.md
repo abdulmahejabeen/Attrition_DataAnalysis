@@ -58,7 +58,7 @@ MODEL 2 - RANDOM FOREST
 • Interpretability vs. Complexity: Results from Logistic Regression are easily understood, with distinct coefficients showing how each feature affects the prediction. However, Random Forest provides a higher level of complexity when it comes to ensemble learning, which makes it a useful method of capturing nonlinear correlations and interactions between data.
  
 
-FINAL DASHBOARD
+# FINAL DASHBOARD
 ![Screenshot 2025-05-06 at 4 46 13 PM](https://github.com/user-attachments/assets/84b7b729-6763-4839-b421-51d934375f3f)
 
 
