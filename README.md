@@ -39,36 +39,23 @@ Action: Mitigate high attrition in departments through workload assessment, care
 # MODELING
 ![Screenshot 2025-05-06 at 4 50 28 PM](https://github.com/user-attachments/assets/14e7f956-4966-40bf-930a-d8c6b702b3c2)
 
- 
+![Screenshot 2025-05-06 at 4 51 18 PM](https://github.com/user-attachments/assets/6a8c8709-0f68-42e8-8440-697630f49c62)
 
-
-
- 
-
-
-
- 
+![Screenshot 2025-05-06 at 4 50 48 PM](https://github.com/user-attachments/assets/af42ee2c-1e58-4aa6-b80e-48e09fc56837)
 
 MODEL 1 - LOGISTIC REGRESSION
-
-
-
- 
+![Screenshot 2025-05-06 at 4 51 07 PM](https://github.com/user-attachments/assets/b83b0790-8811-437b-ad04-599aefaad8bd)
 
 MODEL 2 - RANDOM FOREST
+![Screenshot 2025-05-06 at 4 51 13 PM](https://github.com/user-attachments/assets/cec670e4-852a-4a19-b11c-dc53f0d569f2)
 
-
-
- 
-
-WHY THESE MODELS?
+# WHY THESE MODELS?
 
 • Diverse Approaches: The classification task can be approached in a variety of ways by utilizing both Random Forest and Logistic Regression. While Logistic Regression produces a linear decision boundary that is easy to understand and interpret, Random Forest uses an ensemble of decision trees to capture intricate relationships between features.
 
 • Model Performance: Random Forest and Logistic Regression are well-known for their consistent results when applied to a variety of datasets and classification tasks.
 
 • Interpretability vs. Complexity: Results from Logistic Regression are easily understood, with distinct coefficients showing how each feature affects the prediction. However, Random Forest provides a higher level of complexity when it comes to ensemble learning, which makes it a useful method of capturing nonlinear correlations and interactions between data.
-
  
 
 FINAL DASHBOARD
